@@ -1,0 +1,26 @@
+[
+  {
+    "company_name": "Fever",
+    "company_profile": "https://www.linkedin.com/company/fever-up",
+    "company_website": "https://feverup.com",
+    "company_address_type": "PostalAddress",
+    "company_street": "76 Greene St, New York",
+    "company_locality": "New York",
+    "company_region": null,
+    "company_postal_code": "10012",
+    "company_country": "US",
+    "company_employees_on_linkedin": 2778,
+    "company_followers_on_linkedin": 302653,
+    "company_logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGZ34Z5Azy0Qw/company-logo_200_200/company-logo_200_200/0/1630556337246/fever_inc_logo",
+    "company_cover_image": "https://media.licdn.com/dms/image/v2/D4D3DAQFsknuPc8dzAQ/image-scale_191_1128/0/1679580354908/fever_up_cover",
+    "company_slogan": "Democratizing access to culture and entertainment",
+    "company_twitter_description": "Fever is the leading global live-entertainment discovery tech platform...",
+    "company_about_us": "Fever is the leading global live-entertainment discovery tech platform...",
+    "company_industry": "Software Development",
+    "company_size": "1,001-5,000 employees",
+    "company_headquarters": "New York",
+    "company_organization_type": "Privately Held",
+    "company_founded": 2014,
+    "company_specialties": "internet, mobile, nightlife, startup, events, music, tickets, concerts"
+  }
+]
