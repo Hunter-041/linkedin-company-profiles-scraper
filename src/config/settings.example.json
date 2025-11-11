@@ -1,0 +1,16 @@
+{
+  "request_timeout": 15,
+  "max_retries": 3,
+  "backoff_factor": 1.5,
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36",
+  "proxy_groups": {
+    "DATACENTER": {
+      "http": "http://user:password@datacenter-proxy.example:8000",
+      "https": "http://user:password@datacenter-proxy.example:8000"
+    }
+  },
+  "output": {
+    "directory": "data",
+    "formats": ["json", "csv", "xml", "excel"]
+  }
+}
