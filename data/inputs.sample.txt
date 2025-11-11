@@ -1,0 +1,7 @@
+{
+  "company_profile_urls": [
+    "https://www.linkedin.com/company/fever-up"
+  ],
+  "proxy_group": "DATACENTER",
+  "output_formats": ["json", "csv", "xml", "excel"]
+}
